@@ -53,4 +53,4 @@ Build & Deployment
 ☐ npm install, npm run build, and npm run start complete successfully - Pass
 ☐ Application deploys successfully to Railway and the deployed site is accessible and functional - Pass
 
-Deployment attempts until first successful deployment: 0
+Deployment attempts until first successful deployment: 3
